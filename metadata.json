@@ -1,0 +1,6 @@
+{
+  "name": "Paradox Room — 3D First-Person Puzzle Controller",
+  "description": "Cross-platform smooth first-person controller and reality-shifting 3D puzzle prototype for Paradox Room: The Invisible Bridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
